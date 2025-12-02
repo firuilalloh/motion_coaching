@@ -7,8 +7,8 @@ export const programs = [
     title: "Meaning-Based Career Coaching",
     description:
       "Coaching untuk Fresh Graduate & Early Professionals yang ingin menemukan arah karir yang selaras dengan nilai serta potensi diri.",
-    duration: "6 sesi",
-    price: "Rp 2.000.000",
+    duration: "1 sesi (1 jam)",
+    price: "Rp 100.000",
     category: "B2C",
   },
   {
