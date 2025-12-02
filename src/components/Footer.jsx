@@ -81,7 +81,7 @@ const Footer = () => {
           </div>
 
           {/* Programs */}
-          <div>
+          {/* <div>
             <h4 className="font-bold text-lg mb-4 text-[#F5C542]">Programs</h4>
             <ul className="space-y-2 text-sm">
               <li className="text-white/70">Gen Z Career Direction</li>
@@ -89,7 +89,7 @@ const Footer = () => {
               <li className="text-white/70">Talent Pool Development</li>
               <li className="text-white/70">Quarter-Life Navigation</li>
             </ul>
-          </div>
+          </div> */}
 
           {/* Contact */}
           <div>
@@ -105,11 +105,11 @@ const Footer = () => {
                 <span>0858-7500-0806</span>
               </a>
               <a
-                href="mailto:info@motioncoaching.id"
+                href="mailto:motionmeaningcoaching@gmail.com"
                 className="flex items-center gap-2 text-white/70 hover:text-[#F5C542] transition-colors"
               >
                 <Mail className="w-5 h-5" />
-                <span>info@motioncoaching.id</span>
+                <span>motionmeaningcoaching@gmail.com</span>
               </a>
             </div>
 
@@ -120,12 +120,14 @@ const Footer = () => {
               </p>
               <div className="flex gap-3">
                 <a
-                  href="#"
+                  href="https://www.instagram.com/motioncoachingid/"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="p-2 bg-white/10 rounded-full hover:bg-[#F5C542] transition-all duration-300 hover:scale-110"
                 >
                   <Instagram className="w-5 h-5" />
                 </a>
-                <a
+                {/* <a
                   href="#"
                   className="p-2 bg-white/10 rounded-full hover:bg-[#F5C542] transition-all duration-300 hover:scale-110"
                 >
@@ -136,7 +138,7 @@ const Footer = () => {
                   className="p-2 bg-white/10 rounded-full hover:bg-[#F5C542] transition-all duration-300 hover:scale-110"
                 >
                   <Facebook className="w-5 h-5" />
-                </a>
+                </a> */}
               </div>
             </div>
           </div>
